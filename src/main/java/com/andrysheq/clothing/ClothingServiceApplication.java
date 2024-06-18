@@ -1,4 +1,4 @@
-package com.andrysheq.clothing_service;
+package com.andrysheq.clothing;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
